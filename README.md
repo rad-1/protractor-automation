@@ -1,4 +1,4 @@
-# Jasmine Automation (macOS)
+# Protractor Automation (macOS)
 An automation framework written in JavaScript and Protractor.
 
 Currently a WIP.
